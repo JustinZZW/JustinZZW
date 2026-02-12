@@ -2,7 +2,7 @@
 
 # ✨ Welcome to Justin's Digital Runway ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Fashion+%7C+Code+%7C+Creativity;Designing+the+Future;Style+Meets+Technology" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Fashion+%7C+Code+%7C+Creativity;Designing+the+Future;Style+Meets+Technology" alt="Typing SVG" />
 
 ---
 
@@ -54,11 +54,11 @@ const Justin = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustinZZW&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustinZZW&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JustinZZW&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JustinZZW&theme=radical&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinZZW&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinZZW&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF)
 
 </div>
 
@@ -103,7 +103,7 @@ Philosophy:
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=JustinZZW&style=for-the-badge&color=F75C7E" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=JustinZZW&style=for-the-badge&color=7C3AED" alt="Profile Views" />
 
 ---
 

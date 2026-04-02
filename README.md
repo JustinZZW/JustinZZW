@@ -6,7 +6,7 @@
 
 ---
 
-### 💫 *Where Elegance Meets Innovation* 💫
+### 💫 *Research Interest* 💫
 
 </div>
 
@@ -16,26 +16,15 @@
 
 ```typescript
 const Justin = {
-    style: "Timeless Elegance",
-    passion: ["Fashion", "Technology", "Design", "Innovation"],
-    currentFocus: "Building Beautiful Digital Experiences",
-    philosophy: "Code is poetry, fashion is art",
-    vibe: "✨ Minimalist • Modern • Sophisticated ✨"
+    Education/Profession: ["Phd (2015-2021) & Staff scientist (2021-2022) @ Chinese Academy of Sciences", "Postdoc (2023-Now) @ Stanford Universtiy"]
+    Interests: ["Meatabolomics", "Bioinformatics", "Microbiome"]
 };
 ```
 
 <br/>
 
-## 🌟 Fashion Stack
-
 <div align="center">
 
-### 💅 Design & Style
-
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ### 👔 Tech Wardrobe
 
@@ -62,24 +51,6 @@ const Justin = {
 
 </div>
 
-<br/>
-
-## 🎭 Current Collection
-
-```yaml
-Projects:
-  - 🎨 Crafting pixel-perfect interfaces
-  - 🚀 Building next-gen web experiences
-  - 💡 Exploring AI & Machine Learning
-  - 🌈 Creating design systems that inspire
-
-Philosophy:
-  - "Details make perfection, perfection is not a detail"
-  - "Simplicity is the ultimate sophistication"
-  - "Good design is obvious, great design is transparent"
-```
-
-<br/>
 
 ## 🤝 Let's Collaborate
 
@@ -99,7 +70,6 @@ Philosophy:
 
 <div align="center">
 
-### 💌 Open for collaborations on fashion-tech, design, and innovative projects
 
 ---
 
